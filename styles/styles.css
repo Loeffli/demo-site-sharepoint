@@ -235,3 +235,8 @@ main .section[data-section-status='initialized'] {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+h1 {
+  color: red;
+  border: 3p solid red;
+}

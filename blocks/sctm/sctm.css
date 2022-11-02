@@ -1,0 +1,7 @@
+.sctm{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #999;
+    background-color: #eee;
+    filter: drop-shadow(9px 9px #99f);
+}
